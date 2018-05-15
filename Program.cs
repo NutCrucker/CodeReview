@@ -13,7 +13,6 @@ namespace MostLiked
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Checkit");
             string path = "C:\\Users\\Tomer\\Desktop\\asks.txt";
             UpdateDate(path);
             bool Continue = true;
