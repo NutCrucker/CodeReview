@@ -1,0 +1,7 @@
+C:\Users\Tomer\source\repos\MostLiked\MostLiked\bin\Debug\MostLiked.exe.config
+C:\Users\Tomer\source\repos\MostLiked\MostLiked\bin\Debug\MostLiked.exe
+C:\Users\Tomer\source\repos\MostLiked\MostLiked\bin\Debug\MostLiked.pdb
+C:\Users\Tomer\source\repos\MostLiked\MostLiked\obj\Debug\MostLiked.csprojResolveAssemblyReference.cache
+C:\Users\Tomer\source\repos\MostLiked\MostLiked\obj\Debug\MostLiked.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\source\repos\MostLiked\MostLiked\obj\Debug\MostLiked.exe
+C:\Users\Tomer\source\repos\MostLiked\MostLiked\obj\Debug\MostLiked.pdb
